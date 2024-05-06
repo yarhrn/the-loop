@@ -5,3 +5,4 @@
 - statistics can include attempts, last run, first run, auto quantile calculation
 - stop support with semantic blocking
 - observer
+- check mau
